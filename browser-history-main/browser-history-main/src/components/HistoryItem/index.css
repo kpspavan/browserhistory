@@ -1,0 +1,38 @@
+.search-item-container {
+  display: flex;
+  margin: 20px;
+}
+.history-item {
+  display: flex;
+}
+.time {
+  font-family: 'Roboto';
+}
+.history-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.history-item {
+  font-family: 'Roboto';
+  margin-left: 50px;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+}
+.logo {
+  width: 30px;
+  height: 30px;
+  margin-right: 20px;
+}
+.title {
+  margin-right: 10px;
+}
+.domain {
+  color: #475569;
+}
+.delete-button {
+  background-color: transparent;
+  border: 0px;
+  margin-right: 100px;
+}
